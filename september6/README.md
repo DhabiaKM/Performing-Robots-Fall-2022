@@ -1,5 +1,3 @@
-Read Autonomous Robots as Performing Agents
+# Robots and Communication (NOT DONE) 
 
-In your Github repository, create a folder named 'september6'
-In that folder, create a file named 'README.md'
-In that file, write a response to the paper (about half a page, more if you wish)
+In the paper, the authors present a new way for their robots to communicate. 
