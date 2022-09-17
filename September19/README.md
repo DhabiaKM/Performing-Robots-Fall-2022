@@ -1,6 +1,6 @@
 # On Stage: Robots as Performers 
 
-This reading was an interesting introduction to a new topic, HRI. I've always read articles about HCI and how to develop better interfaces and programs for digital,virtual agents, but never considered the design and though that goes behind human robot intereactions. 
+This reading was an interesting introduction to a new topic, HRI. I've always read articles about HCI and how to develop better interfaces and programs for digital,virtual agents, but never considered the design and though that goes behind human robot intereactions. I also appreciated the authors' reliance on theatre philosophies and theories that once were exclusive to human agents only. v
 
 The most interesting ideas discussed, some observations I have made and a few questions: 
 
@@ -22,8 +22,9 @@ The most interesting ideas discussed, some observations I have made and a few qu
   </ol> 
   <li>Responsiveness: </li> 
    <ol> 
-     <li> </li> 
-     <li> </li> 
+     <li>Machines should be able to react, within good time, continuously, so must their human partners. This seems to be key to maintain the illusion of a performing robot.</li> 
+     <li>Robots should also be able to self-correct should something go wrong in performances, this is what human actors do too. </li> 
+     <li>Should performing robots always have a puppeteer on standby should things go wrong? Why or why not? </li>
 
   </ol> 
 
