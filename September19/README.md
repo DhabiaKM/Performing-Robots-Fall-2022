@@ -1,6 +1,8 @@
 # On Stage: Robots as Performers 
 
-This reading was an interesting introduction to a new topic, HRI. I've always read articles about HCI and how to develop better interfaces and programs for digital,virtual agents, but never considered the design and though that goes behind human robot intereactions. I also appreciated the authors' reliance on theatre philosophies and theories that once were exclusive to human agents only. v
+This reading was an interesting introduction to a new topic, HRI. I've always read articles about HCI and how to develop better interfaces and programs for digital,virtual agents, but never considered the design and though that goes behind human robot intereactions. I also appreciated the authors' reliance on theatre philosophies and theories that once were exclusive to human agents only. 
+
+![image](robots.jpg)
 
 The most interesting ideas discussed, some observations I have made and a few questions: 
 
