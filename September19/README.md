@@ -17,7 +17,7 @@ The most interesting ideas discussed, some observations I have made and a few qu
   <li>How likely is it that we reach a stage of utmost acceptance for robot performers? Will an audience be able to relate to them as much as they do a human agent?</li>
   <li>Continuity:  </li> 
   <ol> 
-    <li> </li> 
+    <li>Inner Monologue, something within you that must always be there, regardless of whether you have lines or not.</li> 
   </ol> 
   <li>Responsiveness: </li> 
    <ol> 
