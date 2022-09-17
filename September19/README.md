@@ -18,10 +18,13 @@ The most interesting ideas discussed, some observations I have made and a few qu
   <li>Continuity:  </li> 
   <ol> 
     <li>Inner Monologue, something within you that must always be there, regardless of whether you have lines or not.</li> 
+    <li>For robots, this involves input, decision nodes, and "a multilayered stream of constantly changing internal parameters".</li>
   </ol> 
   <li>Responsiveness: </li> 
    <ol> 
-  
+     <li> </li> 
+     <li> </li> 
+
   </ol> 
 
 </ol>
