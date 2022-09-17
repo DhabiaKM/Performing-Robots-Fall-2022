@@ -2,7 +2,7 @@
 
 This reading was an interesting introduction to a new topic, HRI. 
 
-The most interesting ideas discussed: 
+The most interesting ideas discussed, some observations I have made and a few questions: 
 
 <ol>
   <li>Performance as a space for experimentation of HRI.</li>
@@ -14,5 +14,7 @@ The most interesting ideas discussed:
     <li>Robotic musical instruments.</li>
     <li>Anthromorphic musical robots that imitate human artists.</li>
   </ol> 
+  <li>How likely is it that we reach a stage of utmost acceptance for robot performers? Will an audience be able to relate to them as much as they do a human agent?</li>
+  <li> </li> 
 
 </ol>
