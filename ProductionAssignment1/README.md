@@ -5,8 +5,8 @@ For this production assignment, we have decided to program our robot to exhibit 
 
 The two main motions were:
 
-Jittering
-Spinning
+- Jittering
+- Spinning
 
 The jittering motion represents indecisiveness and hesitancy. The robot seems scared of approaching something or is hesitant to do so.
 
