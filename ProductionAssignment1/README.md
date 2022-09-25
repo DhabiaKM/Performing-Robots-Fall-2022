@@ -22,3 +22,7 @@ In terms of our code, we implemented the noDelay method so that nothing gets int
 One thing that really set things on the right path for us was incorporating boolean values for the three different states of motion. This allowed us to keep track of what motion is being implemented and what should happen when it isnt. Another thing that really helped us was using counters, this allowed us to keep track of how long each motion was taking to be implemented.
 
 ## Links to Videos
+
+[Video of the robot running properly! :> ](https://www.youtube.com/watch?v=h3r3IlOu2kA)
+[Pets + Robot ! :> ](https://www.youtube.com/watch?v=kqx_gVGP55E)
+
