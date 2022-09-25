@@ -1,6 +1,7 @@
 # Anxious Robot
 For this production assignment, we have decided to program our robot to exhibit anxious behavior and go through a cyclic process. We started by brainstorming different ways to showcase that, and came up with two distinct motions, as well as a final motion to resolve the robot's inner turmoil and anxiety.
 
+![](catthebuilder.jpg)
 ## Motion and Behaviors
 
 The two main motions were:
