@@ -1,6 +1,5 @@
 
 
-
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
@@ -25,19 +24,19 @@ unsigned long previousMillis=0;
 // int stopInterval= 400;
 
 //Jittering
-const long jittering= 300; 
-int jitterCount=25; 
+const long jittering= 250; 
+int jitterCount=16; 
 int jitterCounter=0;
 bool stopJitter=false; 
 
 //Spinning 
-const long Spin= 9000; 
-int spinCount=10; 
+const long Spin= 800; 
+int spinCount=4; 
 int spinCounter=0; 
 bool stopSpin=false; 
 
 //Resolved
-const long resolved= 11000; 
+const long resolved= 1600; 
 int resolvedCounter=0; 
 bool resetAll=false; 
 
@@ -71,15 +70,15 @@ void loop() {
   }  
 
   // Spinning 
-  if(currentMillis-previousMillis>=Spin && spinCounter<=spinCount && stopJitter==true) {
+  if(currentMillis-previousMillis>=Spin && spinCounter<=spinCount && stopSpin==false &&stopSpin==false) {
       previousMillis = currentMillis;
       if(leftMotor==0 && rightMotor==0){ 
         leftMotor= 0;
-        rightMotor= 200;
+        rightMotor= 230;
         }
       else{ 
         leftMotor= 0;
-        rightMotor= 0;        
+        rightMotor= 230;        
       }
        
       analogWrite(3,leftMotor); 
@@ -92,7 +91,7 @@ void loop() {
   }
 
   //Resolved 
-  if (stopSpin==true &&  resolvedCounter<=3 && currentMillis-previousMillis>=resolved ){ 
+  if (stopSpin==true && stopJitter==true &&  resolvedCounter<=3 && currentMillis-previousMillis>=resolved ){ 
       previousMillis = currentMillis;
     if(leftMotor==0 && rightMotor==0){ 
         leftMotor= 200;
@@ -121,6 +120,8 @@ void loop() {
 
 
 } 
+
+
 
 
 
