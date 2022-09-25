@@ -1,6 +1,7 @@
+//Moving Robot Platform 
+//By: Dhabia AlMansoori and Fatima AlMaamzi 
+//Class: Performing Robots 2022, Michael Shiloh, NYUAD
 
-
-// the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   // pinMode(LED_BUILTIN, OUTPUT);
@@ -41,7 +42,6 @@ int resolvedCounter=0;
 bool resetAll=false; 
 
 
-// // the loop function runs over and over again forever
 void loop() {
   unsigned long currentMillis = millis();
   //Jittering  
@@ -107,7 +107,8 @@ void loop() {
        
 
   }
-
+  
+  //resetting the booleans and variables to start the seqeunce again 
   if (resolvedCounter==3){ 
     jitterCounter=0; 
     spinCounter=0; 
