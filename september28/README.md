@@ -34,7 +34,7 @@
 
 **Some Examples Mentioned + My Thoughts:** 
 
-- Continuos City
+- Continuous City
 
 **Vtubers** 
 
