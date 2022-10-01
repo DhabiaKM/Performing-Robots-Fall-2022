@@ -1,7 +1,7 @@
 # The Freudian Robot...
 ## A Very Confusing Concept I am not sure I understand
 
-![](hi.png)
+![](hi.jpeg)
 
 Robots vs Automatons. The reading talks about the difference betweens robots and automatons. It suggests that robots are more than just mechanics and that the lines between man and robot will soon disappear and that we will all become robots — can’t lie, very confusing.
 
