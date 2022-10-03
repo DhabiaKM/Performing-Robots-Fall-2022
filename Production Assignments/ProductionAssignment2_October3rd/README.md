@@ -21,3 +21,4 @@ For this assignment, we had to create a body for the platform robots. Our concep
 ## Pictures of Work in Progress + Plans <a name="imagesWIP"></a>
 
 ![](wip.jpeg)
+![](plan.png)
