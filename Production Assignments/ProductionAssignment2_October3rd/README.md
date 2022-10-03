@@ -8,8 +8,8 @@ For this assignment, DESC TO BE ADDED
 
 ## Videos
 
+[Here is a video of the cat cactus in action!](https://youtu.be/E3FCLbn6hOI)
 
 ## Pictures of Work in Progress
 
-
-
+![](wip.jpeg)
