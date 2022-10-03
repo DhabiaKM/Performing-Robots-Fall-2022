@@ -1,6 +1,6 @@
 # Cat Cactus Robot
 
-# Table of contents
+## Table of contents
 1. [Images of the Final Product](#introduction)
 2. [Videos](#imagesFinal)
 3. [Pictures of Work in Progress + Plans](#imagesWIP)
