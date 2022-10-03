@@ -1,9 +1,10 @@
 # Cat Cactus Robot
 
 ## Table of contents
-1. [Images of the Final Product](#introduction)
-2. [Videos](#imagesFinal)
-3. [Pictures of Work in Progress + Plans](#imagesWIP)
+1. [About the Cactus](#about)
+2. [Images of the Final Product](#imagesFinal)
+3. [Videos](#Videos)
+4. [Images of Work in Progress + Plans](#imagesWIP)
 
 ## About the Cactus <a name="about"></a>
 
@@ -13,7 +14,7 @@ For this assignment, we had to create a body for the platform robots. Our concep
 
 ![](catfinal.jpeg)
 
-## Videos
+## Videos <a name="Videos"></a>
 
 [Here is a video of the cat cactus in action!](https://youtu.be/E3FCLbn6hOI)
 
