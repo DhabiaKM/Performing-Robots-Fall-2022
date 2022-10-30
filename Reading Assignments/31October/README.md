@@ -1,3 +1,4 @@
 # Eight Lessons Learned about Non-verbal Interactions through Robot Theater
 
 Theater as a means to make robots more sociable sounds like an interesting idea, because it creates a comfortable barrier for the audience. These rules seem like a good list to reference when creating robot theater. The one I want to focus on, however, is Lesson 8. I think humor is so important when creating theater experiences because as author said: “it creates common ground”. I think whether it does so to enhance trust or create mistrust, humor adds depth to robot characters. When robots sound more aware of their surroundings and their current situations, they create a sense of reality that grabs the audience’s attention. It layers the robot and makes them more inviting, both as performers and as something maybe one day we could talk to and interact with. 
+Humor is so ingrained in human societies that I personally I think it will make robots easier to accept and less scary. 
