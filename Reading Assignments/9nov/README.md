@@ -1,1 +1,3 @@
-
+- I don't think robots are neccessaily "instruments of nostalgia for the “good old days” of racial purity and hyperconformity". I think this argument takes away from the importance of the emergence of such mechanical agents on stage. 
+- Ishiguro's robots are subjects of artistic and scietific experimentation. 
+- "Kami" seems like a really interesting concept that is universal. For example in Islam, rocks, the sea and most natural inatimate objects are considered to be "alive" in their world. How would can we try and adapt Kami to other cultures? Is it even possible? 
